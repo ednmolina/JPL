@@ -1,0 +1,80 @@
+\begin{thebibliography}{}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{{Aihara} {et~al.}(2011){Aihara}, {Allende Prieto}, {An}, {Anderson},
+  {Aubourg}, {Balbinot}, {Beers}, {Berlind}, {Bickerton}, {Bizyaev}, {Blanton},
+  {Bochanski}, {Bolton}, {Bovy}, {Brandt}, {Brinkmann}, {Brown}, {Brownstein},
+  {Busca}, {Campbell}, {Carr}, {Chen}, {Chiappini}, {Comparat}, {Connolly},
+  {Cortes}, {Croft}, {Cuesta}, {da Costa}, {Davenport}, {Dawson}, {Dhital},
+  {Ealet}, {Ebelke}, {Edmondson}, {Eisenstein}, {Escoffier}, {Esposito},
+  {Evans}, {Fan}, {Femen{\'{\i}}a Castell{\'a}}, {Font-Ribera}, {Frinchaboy},
+  {Ge}, {Gillespie}, {Gilmore}, {Gonz{\'a}lez Hern{\'a}ndez}, {Gott}, {Gould},
+  {Grebel}, {Gunn}, {Hamilton}, {Harding}, {Harris}, {Hawley}, {Hearty}, {Ho},
+  {Hogg}, {Holtzman}, {Honscheid}, {Inada}, {Ivans}, {Jiang}, {Johnson},
+  {Jordan}, {Jordan}, {Kazin}, {Kirkby}, {Klaene}, {Knapp}, {Kneib},
+  {Kochanek}, {Koesterke}, {Kollmeier}, {Kron}, {Lampeitl}, {Lang}, {Le Goff},
+  {Lee}, {Lin}, {Long}, {Loomis}, {Lucatello}, {Lundgren}, {Lupton}, {Ma},
+  {MacDonald}, {Mahadevan}, {Maia}, {Makler}, {Malanushenko}, {Malanushenko},
+  {Mandelbaum}, {Maraston}, {Margala}, {Masters}, {McBride}, {McGehee},
+  {McGreer}, {M{\'e}nard}, {Miralda-Escud{\'e}}, {Morrison}, {Mullally},
+  {Muna}, {Munn}, {Murayama}, {Myers}, {Naugle}, {Neto}, {Nguyen}, {Nichol},
+  {O'Connell}, {Ogando}, {Olmstead}, {Oravetz}, {Padmanabhan},
+  {Palanque-Delabrouille}, {Pan}, {Pandey}, {P{\^a}ris}, {Percival},
+  {Petitjean}, {Pfaffenberger}, {Pforr}, {Phleps}, {Pichon}, {Pieri}, {Prada},
+  {Price-Whelan}, {Raddick}, {Ramos}, {Reyl{\'e}}, {Rich}, {Richards}, {Rix},
+  {Robin}, {Rocha-Pinto}, {Rockosi}, {Roe}, {Rollinde}, {Ross}, {Ross},
+  {Rossetto}, {S{\'a}nchez}, {Sayres}, {Schlegel}, {Schlesinger}, {Schmidt},
+  {Schneider}, {Sheldon}, {Shu}, {Simmerer}, {Simmons}, {Sivarani}, {Snedden},
+  {Sobeck}, {Steinmetz}, {Strauss}, {Szalay}, {Tanaka}, {Thakar}, {Thomas},
+  {Tinker}, {Tofflemire}, {Tojeiro}, {Tremonti}, {Vandenberg}, {Vargas
+  Maga{\~n}a}, {Verde}, {Vogt}, {Wake}, {Wang}, {Weaver}, {Weinberg}, {White},
+  {White}, {Yanny}, {Yasuda}, {Yeche}, \& {Zehavi}}]{2011ApJS..193...29A}
+{Aihara}, H., {Allende Prieto}, C., {An}, D., {et~al.} 2011, \apjs, 193, 29
+
+\bibitem[{{Dalal} {et~al.}(2008){Dalal}, {White}, {Bond}, \&
+  {Shirokov}}]{2008ApJ...687...12D}
+{Dalal}, N., {White}, M., {Bond}, J.~R., \& {Shirokov}, A. 2008, \apj, 687, 12
+
+\bibitem[{{Fukugita} {et~al.}(1996){Fukugita}, {Ichikawa}, {Gunn}, {Doi},
+  {Shimasaku}, \& {Schneider}}]{1996AJ....111.1748F}
+{Fukugita}, M., {Ichikawa}, T., {Gunn}, J.~E., {et~al.} 1996, \aj, 111, 1748
+
+\bibitem[{{Mandelbaum} {et~al.}(2013){Mandelbaum}, {Slosar}, {Baldauf},
+  {Seljak}, {Hirata}, {Nakajima}, {Reyes}, \& {Smith}}]{2013MNRAS.432.1544M}
+{Mandelbaum}, R., {Slosar}, A., {Baldauf}, T., {et~al.} 2013, \mnras, 432, 1544
+
+\bibitem[{{Mandelbaum} {et~al.}(2005){Mandelbaum}, {Hirata}, {Seljak}, {Guzik},
+  {Padmanabhan}, {Blake}, {Blanton}, {Lupton}, \&
+  {Brinkmann}}]{2005MNRAS.361.1287M}
+{Mandelbaum}, R., {Hirata}, C.~M., {Seljak}, U., {et~al.} 2005, \mnras, 361,
+  1287
+
+\bibitem[{{Miyatake} {et~al.}(2016){Miyatake}, {More}, {Takada}, {Spergel},
+  {Mandelbaum}, {Rykoff}, \& {Rozo}}]{2016PhRvL.116d1301M}
+{Miyatake}, H., {More}, S., {Takada}, M., {et~al.} 2016, Physical Review
+  Letters, 116, 041301
+
+\bibitem[{{Miyatake} {et~al.}(2015){Miyatake}, {More}, {Mandelbaum}, {Takada},
+  {Spergel}, {Kneib}, {Schneider}, {Brinkmann}, \&
+  {Brownstein}}]{2015ApJ...806....1M}
+{Miyatake}, H., {More}, S., {Mandelbaum}, R., {et~al.} 2015, \apj, 806, 1
+
+\bibitem[{{More} {et~al.}(2015){More}, {Miyatake}, {Mandelbaum}, {Takada},
+  {Spergel}, {Brownstein}, \& {Schneider}}]{2015ApJ...806....2M}
+{More}, S., {Miyatake}, H., {Mandelbaum}, R., {et~al.} 2015, \apj, 806, 2
+
+\bibitem[{{Nakajima} {et~al.}(2012){Nakajima}, {Mandelbaum}, {Seljak}, {Cohn},
+  {Reyes}, \& {Cool}}]{2012MNRAS.420.3240N}
+{Nakajima}, R., {Mandelbaum}, R., {Seljak}, U., {et~al.} 2012, \mnras, 420,
+  3240
+
+\bibitem[{{Rykoff} {et~al.}(2014){Rykoff}, {Rozo}, {Busha}, {Cunha},
+  {Finoguenov}, {Evrard}, {Hao}, {Koester}, {Leauthaud}, {Nord}, {Pierre},
+  {Reddick}, {Sadibekova}, {Sheldon}, \& {Wechsler}}]{2014ApJ...785..104R}
+{Rykoff}, E.~S., {Rozo}, E., {Busha}, M.~T., {et~al.} 2014, \apj, 785, 104
+
+\bibitem[{{Schneider} {et~al.}(2012){Schneider}, {Frenk}, \&
+  {Cole}}]{2012JCAP...05..030S}
+{Schneider}, M.~D., {Frenk}, C.~S., \& {Cole}, S. 2012, \jcap, 5, 030
+
+\end{thebibliography}
